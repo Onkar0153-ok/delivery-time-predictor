@@ -6,7 +6,7 @@ st.title("📌 About This Model")
 col1, col2, col3 = st.columns([1,2,1])
 
 with col2:
-    st.image("photo.png",width=350)
+    st.image("photo.png",width=250)
 
 st.markdown("""
 ### 🤖 Model Used: Linear Regression
